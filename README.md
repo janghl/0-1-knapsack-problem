@@ -25,25 +25,46 @@
 
 代码运行实例：
 size of the problem: 20
+
 knapsack capacity: 500
+
 range of value: 100
+
 range of weight: 50
 
+
 total value: 1019
+
 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 1 1 1 1 
+
 costTime: 2   method: DP
+
 total value: 1019
+
 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 1 1 1 1 
+
 costTime: 13   method: divide_and_conquer
+
 total value: 937
+
 1 1 1 1 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 0 
+
 costTime: 3   method: greedy
+
 total value: 1019
+
 1 1 1 1 1 1 1 1 0 1 0 0 1 0 0 1 1 0 1 1 
+
 costTime: 38   method: backtrack
+
 total value: 1019
+
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 0 
+
 costTime: 2 method: Bound
+
 total value: 1019
+
 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 1 1 1 1 
+
 costTime: 3257   method: Monte_Carlo
